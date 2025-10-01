@@ -1,2 +1,2 @@
-    # for sub_item in item:
-    #     print(sub_item)
+a.sort() # it will give error because list have multiple data types
+# print(a)
